@@ -26,8 +26,6 @@ Nice to meet you!
 ### Game Development
 <img src="https://img.shields.io/badge/Unity-black?logo=unity"> <img src="https://img.shields.io/badge/Godot-478CDA?logo=godot-engine&logoColor=white"> <img src="https://img.shields.io/badge/Aseprite-purple?logo=aseprite&logoColor=white">
 
-<img src="https://raw.githubusercontent.com/rowlys/rowlys/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rowlys/rowlys/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rowlys/rowlys/output/github-contribution-grid-snake.svg">
