@@ -6,6 +6,8 @@
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge)](https://itsrowly.com/)
+&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/basten-as/)
 &nbsp;
 <!-- #![Profile Views](https://komarev.com/ghpvc/?username=rowlys&color=a855f7&style=for-the-badge&label=PROFILE+VIEWS) -->
